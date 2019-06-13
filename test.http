@@ -1,0 +1,3 @@
+POST http://localhost:7071/api/Categorize_Sentiment
+
+0.5
